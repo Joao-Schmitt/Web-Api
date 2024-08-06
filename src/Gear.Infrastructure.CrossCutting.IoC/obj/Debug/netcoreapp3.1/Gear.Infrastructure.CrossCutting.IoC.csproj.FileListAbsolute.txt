@@ -1,0 +1,15 @@
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.deps.json
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.dll
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.pdb
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Domain.dll
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Infrastructure.Data.dll
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Domain.pdb
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Gear.Infrastructure.Data.pdb
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.dll
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Gear.Infrastructure.CrossCutting.IoC.pdb

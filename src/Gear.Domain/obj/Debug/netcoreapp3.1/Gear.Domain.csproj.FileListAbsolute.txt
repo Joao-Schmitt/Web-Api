@@ -1,0 +1,9 @@
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\bin\Debug\netcoreapp3.1\Gear.Domain.deps.json
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\bin\Debug\netcoreapp3.1\Gear.Domain.dll
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\bin\Debug\netcoreapp3.1\Gear.Domain.pdb
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.AssemblyInfoInputs.cache
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.AssemblyInfo.cs
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.dll
+C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.pdb

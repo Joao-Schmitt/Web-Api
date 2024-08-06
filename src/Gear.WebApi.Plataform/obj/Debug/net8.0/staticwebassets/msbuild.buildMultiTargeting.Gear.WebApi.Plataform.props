@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gear.WebApi.Plataform.props" />
+</Project>
