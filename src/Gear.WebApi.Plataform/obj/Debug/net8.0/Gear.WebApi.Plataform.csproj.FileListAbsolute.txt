@@ -93,7 +93,6 @@ D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Gear.WebApi.P
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Gear.WebApi.Plataform.dll
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Gear.WebApi.Plataform.pdb
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\AutoMapper.dll
-D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Azure.Core.dll
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Azure.Identity.dll
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Castle.Core.dll
@@ -173,3 +172,4 @@ D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\obj\Debug\net8.0\refint\Gear.W
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\obj\Debug\net8.0\Gear.WebApi.Plataform.pdb
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\obj\Debug\net8.0\Gear.WebApi.Plataform.genruntimeconfig.cache
 D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\obj\Debug\net8.0\ref\Gear.WebApi.Plataform.dll
+D:\Projects\GIT\Web-Api\src\Gear.WebApi.Plataform\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

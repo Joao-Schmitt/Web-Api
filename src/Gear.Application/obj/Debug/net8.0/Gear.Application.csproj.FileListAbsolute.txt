@@ -1,0 +1,16 @@
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\net8.0\Gear.Application.deps.json
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\net8.0\Gear.Application.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\net8.0\Gear.Application.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\net8.0\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\net8.0\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.csproj.AssemblyReference.cache
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.AssemblyInfoInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.AssemblyInfo.cs
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.sourcelink.json
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.App.4B4C72C2.Up2Date
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\refint\Gear.Application.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\Gear.Application.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\net8.0\ref\Gear.Application.dll

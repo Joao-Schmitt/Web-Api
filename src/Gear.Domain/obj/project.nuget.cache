@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LsAyvWy1t0RhfNfRdStgZE03LAKObSVlfy7bHq+VpjDh7AToy2v18ucn3Yt+K1b94/cJ3yPjMNaqlpHYzZlBfw==",
+  "dgSpecHash": "3c6ZWzagyGl7FPVKsn1RkVAcddnOwsv57bulnEB4UIx8xptEchcyFIruEFggR8GvYa9UgdwexzI1fhyE+idexQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.Domain\\Gear.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\João Schmitt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\João Schmitt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\João Schmitt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

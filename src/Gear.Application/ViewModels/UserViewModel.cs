@@ -1,8 +1,4 @@
-﻿using Gear.Domain.Enumerators;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Gear.Application.ViewModels
 {
@@ -13,6 +9,5 @@ namespace Gear.Application.ViewModels
 
         [Required(ErrorMessage = "Senha é obrigatória!")]
         public string Password { get; set; }
-        public UserType UserType { get; set; }
     }
 }

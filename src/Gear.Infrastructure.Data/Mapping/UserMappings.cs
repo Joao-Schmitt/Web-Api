@@ -11,7 +11,7 @@ namespace Gear.Infrastructure.Data.Mapping
     {
         public void Configure(EntityTypeBuilder<UsersCredentials> builder)
         {
-            builder.ToTable("TUser");
+            builder.ToTable("UsersCredentials");
 
             builder.HasKey(x => x.Id);
         }

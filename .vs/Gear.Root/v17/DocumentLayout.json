@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\GIT\\Web-Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911091B1-11D4-4F69-838C-1BA367E7FBE2}|src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj|d:\\projects\\git\\web-api\\src\\gear.webapi.plataform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911091B1-11D4-4F69-838C-1BA367E7FBE2}|src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj|solutionrelative:src\\gear.webapi.plataform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911091B1-11D4-4F69-838C-1BA367E7FBE2}|src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj|d:\\projects\\git\\web-api\\src\\gear.webapi.plataform\\gear.webapi.plataform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{911091B1-11D4-4F69-838C-1BA367E7FBE2}|src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj|solutionrelative:src\\gear.webapi.plataform\\gear.webapi.plataform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3043BF61-4F11-4192-854B-534C7C93C450}|src\\Gear.Application\\Gear.Application.csproj|d:\\projects\\git\\web-api\\src\\gear.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3043BF61-4F11-4192-854B-534C7C93C450}|src\\Gear.Application\\Gear.Application.csproj|solutionrelative:src\\gear.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911091B1-11D4-4F69-838C-1BA367E7FBE2}|src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj|d:\\projects\\git\\web-api\\src\\gear.webapi.plataform\\controllers\\abstract\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911091B1-11D4-4F69-838C-1BA367E7FBE2}|src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj|solutionrelative:src\\gear.webapi.plataform\\controllers\\abstract\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3043BF61-4F11-4192-854B-534C7C93C450}|src\\Gear.Application\\Gear.Application.csproj|d:\\projects\\git\\web-api\\src\\gear.application\\automapper\\profiles\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3043BF61-4F11-4192-854B-534C7C93C450}|src\\Gear.Application\\Gear.Application.csproj|solutionrelative:src\\gear.application\\automapper\\profiles\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.Application\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Gear.Application\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.Application\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "src\\Gear.Application\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:11:01.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.Application\\AutoMapper\\Profiles\\UserMappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Gear.Application\\AutoMapper\\Profiles\\UserMappingProfile.cs",
+              "ToolTip": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.Application\\AutoMapper\\Profiles\\UserMappingProfile.cs",
+              "RelativeToolTip": "src\\Gear.Application\\AutoMapper\\Profiles\\UserMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:10:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gear.WebApi.Plataform",
+              "DocumentMoniker": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj",
+              "RelativeDocumentMoniker": "src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj",
+              "ToolTip": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj",
+              "RelativeToolTip": "src\\Gear.WebApi.Plataform\\Gear.WebApi.Plataform.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T21:10:20.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.WebApi.Plataform\\Controllers\\Abstract\\ApiController.cs",
+              "RelativeDocumentMoniker": "src\\Gear.WebApi.Plataform\\Controllers\\Abstract\\ApiController.cs",
+              "ToolTip": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.WebApi.Plataform\\Controllers\\Abstract\\ApiController.cs",
+              "RelativeToolTip": "src\\Gear.WebApi.Plataform\\Controllers\\Abstract\\ApiController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:07:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.WebApi.Plataform\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "src\\Gear.WebApi.Plataform\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\GIT\\Web-Api\\src\\Gear.WebApi.Plataform\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "src\\Gear.WebApi.Plataform\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:06:27.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

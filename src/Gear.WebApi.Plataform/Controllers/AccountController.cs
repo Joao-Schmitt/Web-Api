@@ -61,9 +61,6 @@ namespace Gear.WebApi.Plataform.Controllers
                 if(string.IsNullOrWhiteSpace(account.Email) || string.IsNullOrWhiteSpace(account.Password))
                     return ResponseError("Email e/ou senha inválidos!");
 
-                if (string.IsNullOrWhiteSpace(account.Name))
-                    return ResponseError("Nome inválido!");
-
                 var user = this._userRepository.GetByEmail(account.Email);
 
                 if (user != null)

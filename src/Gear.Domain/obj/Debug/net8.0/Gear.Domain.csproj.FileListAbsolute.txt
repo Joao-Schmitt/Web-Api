@@ -1,0 +1,12 @@
+D:\Projects\GIT\Web-Api\src\Gear.Domain\bin\Debug\net8.0\Gear.Domain.deps.json
+D:\Projects\GIT\Web-Api\src\Gear.Domain\bin\Debug\net8.0\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Domain\bin\Debug\net8.0\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.AssemblyInfoInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.AssemblyInfo.cs
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.sourcelink.json
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\refint\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\net8.0\ref\Gear.Domain.dll

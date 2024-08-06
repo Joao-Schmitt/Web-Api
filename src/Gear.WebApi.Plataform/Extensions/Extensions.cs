@@ -1,10 +1,6 @@
 ﻿using AutoMapper;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using Gear.Infrastructure.CrossCutting.IoC;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+
 
 namespace Gear.WebApi.Plataform.Extensions
 {

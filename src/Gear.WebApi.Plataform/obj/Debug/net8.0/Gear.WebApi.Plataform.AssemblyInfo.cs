@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gear.WebApi.Plataform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5e3d45d8bba377fe144e45909bebcf78a40e74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b13610717075784aa842177b0d3b2cab75835f4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gear.WebApi.Plataform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gear.WebApi.Plataform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

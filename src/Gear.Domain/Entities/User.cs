@@ -1,6 +1,4 @@
-﻿using Gear.Domain.Enumerators;
-
-namespace Gear.Domain.Entities
+﻿namespace Gear.Domain.Entities
 {
     public class UsersCredentials
     {

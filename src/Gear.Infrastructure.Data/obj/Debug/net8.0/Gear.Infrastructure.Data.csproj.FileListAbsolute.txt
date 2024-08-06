@@ -1,0 +1,16 @@
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\net8.0\Gear.Infrastructure.Data.deps.json
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\net8.0\Gear.Infrastructure.Data.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\net8.0\Gear.Infrastructure.Data.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\net8.0\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\net8.0\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.AssemblyInfo.cs
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.sourcelink.json
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Inf.90A36472.Up2Date
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\refint\Gear.Infrastructure.Data.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\Gear.Infrastructure.Data.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\net8.0\ref\Gear.Infrastructure.Data.dll
