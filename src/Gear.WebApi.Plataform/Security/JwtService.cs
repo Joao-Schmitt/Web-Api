@@ -11,7 +11,7 @@ namespace Gear.WebApi.Plataform.Security
 {
     public class JwtService
     {
-        public string GenerateUsuarioToken(User usuario, string tpUsuario)
+        public string GenerateUsuarioToken(UsersCredentials usuario, string tpUsuario)
         {
             var claims = GetUsuarioClaimsIdentity(usuario, tpUsuario);
             return GenerateToken(claims);
@@ -35,7 +35,7 @@ namespace Gear.WebApi.Plataform.Security
             return handler.WriteToken(securityToken);
         }
 
-        private ClaimsIdentity GetUsuarioClaimsIdentity(User usuario, string tpUsuario)
+        private ClaimsIdentity GetUsuarioClaimsIdentity(UsersCredentials usuario, string tpUsuario)
         {
             return new ClaimsIdentity
             (
@@ -43,9 +43,7 @@ namespace Gear.WebApi.Plataform.Security
                 new[] {
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                     new Claim("id", usuario.Id.ToString()),
-                    new Claim("email", usuario.Email),
-                    new Claim("tipoUsuario", tpUsuario.ToString()),
-                    new Claim("refreshToken", usuario.RefreshToken),
+                    new Claim("email", usuario.Email)
                 }
             ) ;
         }
@@ -53,8 +51,8 @@ namespace Gear.WebApi.Plataform.Security
 
     public class JwtSettings
     {
-        public static string Issuer => "status.inf.br";
-        public static string Audience => "status.inf.br";
+        public static string Issuer => "gear";
+        public static string Audience => "gear";
 
         public static byte[] SigningKey = Encoding.UTF8.GetBytes("6707870a-eeea-4a46-be83-e580e4e32431");
     }

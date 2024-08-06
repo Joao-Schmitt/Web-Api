@@ -7,9 +7,9 @@ using Gear.Domain.Entities;
 
 namespace Gear.Infrastructure.Data.Mapping
 {
-    internal class UserMappings : IEntityTypeConfiguration<User>
+    internal class UserMappings : IEntityTypeConfiguration<UsersCredentials>
     {
-        public void Configure(EntityTypeBuilder<User> builder)
+        public void Configure(EntityTypeBuilder<UsersCredentials> builder)
         {
             builder.ToTable("TUser");
 

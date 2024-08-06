@@ -11,3 +11,17 @@ C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.Da
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.csproj.CopyComplete
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.dll
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\netcoreapp3.1\Gear.Infrastructure.Data.deps.json
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\netcoreapp3.1\Gear.Infrastructure.Data.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\netcoreapp3.1\Gear.Infrastructure.Data.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\netcoreapp3.1\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\bin\Debug\netcoreapp3.1\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.AssemblyInfo.cs
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.sourcelink.json
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Inf.90A36472.Up2Date
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.dll
+D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.Data\obj\Debug\netcoreapp3.1\Gear.Infrastructure.Data.pdb

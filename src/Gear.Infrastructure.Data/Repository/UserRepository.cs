@@ -8,14 +8,14 @@ using System.Text;
 
 namespace Gear.Infrastructure.Data.Repository
 {
-    public class UserRepository : Repository<User>, IUserRepository
+    public class UserRepository : Repository<UsersCredentials>, IUserRepository
     {
         public UserRepository(GearContext context) : base(context)
         {
 
         }
 
-        public User GetByEmail(string email)
+        public UsersCredentials GetByEmail(string email)
         {
             return base.GetAll(x => x.Email == email).FirstOrDefault();
         }

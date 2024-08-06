@@ -11,7 +11,7 @@ namespace Gear.Application.AutoMapper.Profiles
     {
         public UserMappingProfile() 
         {
-            CreateMap<UserViewModel, User>().ReverseMap();  
+            CreateMap<UserViewModel, UsersCredentials>().ReverseMap();  
         }
     }
 }

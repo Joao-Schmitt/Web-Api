@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = Gear.Infrastructure.CrossCutting.IoC
-build_property.ProjectDir = E:\Projects\Gear\Gear.Root\src\Gear.Infrastructure.CrossCutting.IoC\
+build_property.ProjectDir = D:\Projects\GIT\Web-Api\src\Gear.Infrastructure.CrossCutting.IoC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

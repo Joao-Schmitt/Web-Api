@@ -42,8 +42,6 @@ namespace Gear.WebApi.Plataform.Controllers
                 return ResponseOK(new LoginResult()
                 {
                     Id = logginUser.Id,
-                    Name = logginUser.Name,
-                    UserType = logginUser.UserType
                 });
             }
             catch(Exception ex)
@@ -71,12 +69,10 @@ namespace Gear.WebApi.Plataform.Controllers
                 if (user != null)
                     return ResponseError("Usuário já cadastrado!");
 
-                this._userRepository.Create(new Domain.Entities.User()
+                this._userRepository.Create(new Domain.Entities.UsersCredentials()
                 {
                      Email = account.Email,
-                     Password = Domain.Security.ToSHA512(account.Password),
-                     UserType = account.UserType,
-                     Name = account.Name
+                     Password = Domain.Security.ToSHA512(account.Password)
                 });
 
                 if (!this._uow.SaveChanges())
@@ -88,9 +84,7 @@ namespace Gear.WebApi.Plataform.Controllers
                     
                 return ResponseOK(new LoginResult()
                 {
-                    Id = logginUser.Id,
-                    Name = logginUser.Name,
-                    UserType = logginUser.UserType
+                    Id = logginUser.Id
                 });
             }
             catch (Exception ex) 

@@ -7,3 +7,13 @@ C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.dll
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Domain\bin\Debug\netcoreapp3.1\Gear.Domain.deps.json
+D:\Projects\GIT\Web-Api\src\Gear.Domain\bin\Debug\netcoreapp3.1\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Domain\bin\Debug\netcoreapp3.1\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.AssemblyInfoInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.AssemblyInfo.cs
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.sourcelink.json
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Domain\obj\Debug\netcoreapp3.1\Gear.Domain.pdb

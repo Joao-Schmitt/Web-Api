@@ -11,3 +11,17 @@ C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Application\obj\D
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.csproj.CopyComplete
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.dll
 C:\Users\Status\Desktop\Anotacoes_Joao\Gear\Gear.Root\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\netcoreapp3.1\Gear.Application.deps.json
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\netcoreapp3.1\Gear.Application.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\netcoreapp3.1\Gear.Application.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\netcoreapp3.1\Gear.Domain.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\bin\Debug\netcoreapp3.1\Gear.Domain.pdb
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.csproj.AssemblyReference.cache
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.AssemblyInfoInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.AssemblyInfo.cs
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.csproj.CoreCompileInputs.cache
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.sourcelink.json
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.App.4B4C72C2.Up2Date
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.dll
+D:\Projects\GIT\Web-Api\src\Gear.Application\obj\Debug\netcoreapp3.1\Gear.Application.pdb

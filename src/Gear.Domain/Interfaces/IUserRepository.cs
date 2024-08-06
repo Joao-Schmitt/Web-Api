@@ -6,8 +6,8 @@ using System.Text;
 
 namespace Gear.Domain.Interfaces
 {
-    public interface IUserRepository : IRepository<User>
+    public interface IUserRepository : IRepository<UsersCredentials>
     {
-        public User GetByEmail(string email);
+        public UsersCredentials GetByEmail(string email);
     }
 }
